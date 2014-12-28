@@ -168,7 +168,7 @@ Name | License | Demo
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/CircleIndicator.gif" width="49%">
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
 [Android Ripple Background](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-ripple-background.gif" width="49%"> <img src="art/android-ripple-background2.gif" width="49%">
-[android-flipd](https://github.com/openaphid/android-flipd) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
+[android-flip](https://github.com/openaphid/android-flip) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
 
 Parallax
 ======================
